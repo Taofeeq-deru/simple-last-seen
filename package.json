@@ -1,0 +1,30 @@
+{
+  "name": "simple-last-seen",
+  "version": "1.0.0",
+  "description": "A lightweight javascript package that returns how long ago the time passed in was",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taofeeq-deru/simple-last-seen.git"
+  },
+  "keywords": [
+    "last seen",
+    "npm",
+    "react",
+    "angular",
+    "vue",
+    "javascript",
+    "time",
+    "date",
+    "long ago"
+  ],
+  "author": "Taofeeq Oluderu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taofeeq-deru/simple-last-seen/issues"
+  },
+  "homepage": "https://github.com/Taofeeq-deru/simple-last-seen#readme"
+}
