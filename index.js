@@ -1,4 +1,4 @@
-class LastSeen {
+class RelativeTime {
   static lastSeenAgo(lastSeen, currentTime, recentlyText) {
     if (!lastSeen) return null;
 
@@ -74,4 +74,4 @@ class LastSeen {
   }
 }
 
-module.exports = LastSeen;
+module.exports = RelativeTime;
