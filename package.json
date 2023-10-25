@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A lightweight javascript package that returns how long ago the time passed in was",
   "main": "index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
