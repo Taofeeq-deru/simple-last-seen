@@ -1,8 +1,9 @@
 {
   "name": "simple-last-seen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight javascript package that returns how long ago the time passed in was",
   "main": "index.js",
+  "types": "types/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +13,7 @@
   },
   "keywords": [
     "last seen",
+    "last-seen",
     "npm",
     "react",
     "angular",
@@ -19,7 +21,8 @@
     "javascript",
     "time",
     "date",
-    "long ago"
+    "long ago",
+    "long-ago"
   ],
   "author": "Taofeeq Oluderu",
   "license": "ISC",
